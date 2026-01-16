@@ -1,7 +1,5 @@
-// @import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
 
-
-//Variables
+/*Variables8*/
 :root {
     --background-body: #fff;
     --background: #efefef;
@@ -39,7 +37,7 @@
     font-family: $ms-font-family-fallbacks;
   }
 
-  //Default styles
+  /*Default styles*/
 
   button,
   input,
@@ -617,12 +615,12 @@
       }
   }
 
-  //End default styles
+  /*End default styles*/
 
 }
  
 
-//Wordpress Post Styles
+/*Wordpress Post Styles*/
 
 
 :global(.alignright) {
