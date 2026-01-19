@@ -37,6 +37,13 @@
     font-family: $ms-font-family-fallbacks;
   }
 
+  /*resets from EBS styles*/
+
+  h2 {
+    background-image: transparent  !important;
+    color: inherit !important;
+  }
+
   /*Default styles*/
 
   button,
