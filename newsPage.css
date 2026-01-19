@@ -37,6 +37,10 @@
     font-family: $ms-font-family-fallbacks;
   }
 
+  h2 {
+    font-size: 200px;
+  }
+
   /*Default styles*/
 
   button,
